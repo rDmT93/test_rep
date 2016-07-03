@@ -1,16 +1,4 @@
-# title e tal
+# UML Spreadsheets
+A UML-based visual language that provides a controlled specification and generation of spreadsheets, covering the most common spreadsheets patterns, and that is compatible with the most widely used spreadsheet applications.
 
-wedwedwedwed
-wedwedwedwedwedwed
-ewdwed
-
-## cwdwed
-wedwed:
-
-- Viewing commits through a tree graph.
-- Saving and restoring commits.
-- Display differences between versions.
-- Automatic commits.
-- Creating commit messages and tags.
-- Allow collaboration of multiple users on a spreadsheet repository.
-
+The spreadsheets generated from this DSL will guide the users so they make less mistakes, based on the restrictions imposed in the modeling phase.
